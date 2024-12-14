@@ -9,6 +9,7 @@
   <img src="results_Figure8.png" alt="Example GIF" style="border: 1px solid white;">
 </kbd>
 </p>
+
 ## How to Use the Code
 
 1. **Data Processing**
