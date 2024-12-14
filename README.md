@@ -26,6 +26,6 @@
 4. **Google Colab**
 
   - This repository can be used via Google Colab:
-  <a target="_blank" href="https://colab.research.google.com/github.com/JavierOrjuela/medical-interpretability-polyp-detection">
+  <a target="_blank" href="https://colab.research.google.com/github/JavierOrjuela/medical-interpretability-polyp-detection">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
